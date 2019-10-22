@@ -1,3 +1,11 @@
+/*
+Author: Akib Hosen Khan
+        B.Sc. in Information & Communication Technology.
+        Islamic University, Bangladesh
+Hardware: Flame_Sensor and NodeMCU
+Data is displayed at Blynk app
+*/
+
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
